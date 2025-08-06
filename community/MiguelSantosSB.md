@@ -6,7 +6,7 @@ Olá bem vindo ao meu ReadMe, meu nome é Miguel Santos e sou estudante do curso
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSantosSB&layout=compact&theme=tokyonight)
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/miguel-santos-305a42224))
 
 ## Projetos
 
